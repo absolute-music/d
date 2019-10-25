@@ -15,6 +15,7 @@
 * [Attachment](docs/attachment.md)
 * [Attachments](docs/attachments.md)
 * [Webhook](docs/webhook.md)
+* [sharding](docs/sharding.md)
 
 ## Interacting with discord.lib
 
