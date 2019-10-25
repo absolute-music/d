@@ -11,7 +11,7 @@ First, we need to interact with discord.lib client by doing:
 ```text
 const dl = require("discord.lib")
 dl.client.on("ready", () => {
- client.user.setActivity(`I am serving ${client.users.size}`)
+ dl.client.user.setActivity(`I am serving ${client.users.size}`)
 })
 ```
 
