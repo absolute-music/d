@@ -1,3 +1,7 @@
+---
+description: Deprecated
+---
+
 # userClient
 
 This feature is deprecated --&gt; [check this ](../interacting-with-discord.lib/bot-activities.md)for how to do servercount

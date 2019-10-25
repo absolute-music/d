@@ -12,7 +12,6 @@
 * [musicClient](docs/musicclient.md)
 * [serverGreeting](docs/servergreeting.md)
 * [Attachments](docs/attachments.md)
-* [Webhook](docs/webhook.md)
 * [sharding](docs/sharding.md)
 
 ## Interacting with discord.lib
@@ -24,4 +23,5 @@
 ## Deprecated
 
 * [userClient](deprecated/userclient.md)
+* [Webhook](deprecated/webhook.md)
 

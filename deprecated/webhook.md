@@ -1,3 +1,7 @@
+---
+description: Depricated
+---
+
 # Webhook
 
 Webhook allows you to send a webhook request on bot boot up. We currently do not allow user  to send webhook on a command to prevent webhook spam.
