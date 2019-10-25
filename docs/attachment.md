@@ -22,5 +22,11 @@ dl.attachment("A_file", "./image.js", "true")
 dl.login("token", "I am the best bot")
 ```
 
+example of not using buffer
 
+```text
+const dl = require("discord.lib")
+dl.attachment("A_file", "www.example.com/image.png")
+dl.login("token", "I am the best bot")
+```
 
