@@ -14,6 +14,7 @@
 * [userClient](docs/userclient.md)
 * [Attachment](docs/attachment.md)
 * [Attachments](docs/attachments.md)
+* [Webhook](docs/webhook.md)
 
 ## Interacting with discord.lib
 
