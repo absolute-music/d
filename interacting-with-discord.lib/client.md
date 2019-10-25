@@ -10,7 +10,7 @@ dl.client.on("message", message => {
     message.channel.send("I love discord.lib")
 })
 )
-```ss
+```
 
 {% hint style="info" %}
 You could use everything  in the events section of [this page](https://discord.js.org/#/docs/main/stable/class/Client)
