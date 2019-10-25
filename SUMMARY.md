@@ -12,6 +12,7 @@
 * [musicClient](docs/musicclient.md)
 * [serverGreeting](docs/servergreeting.md)
 * [userClient](docs/userclient.md)
+* [Attachment](docs/attachment.md)
 
 ## Interacting with discord.lib
 
