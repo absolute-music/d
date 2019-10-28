@@ -13,6 +13,7 @@
 * [serverGreeting](docs/servergreeting.md)
 * [Attachments](docs/attachments.md)
 * [sharding](docs/sharding.md)
+* [Typings](docs/typings.md)
 
 ## Interacting with discord.lib
 
