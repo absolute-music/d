@@ -8,13 +8,13 @@ This allows you to make your bot to start/stop typing in one or more specific ch
 
 | Parameters | Description | required |
 | :--- | :--- | :--- |
-| channel | Channel to start typing | Yes |
+| command | command to start typing | Yes |
 
 ### Example
 
 ```text
 const dl = require("discord.lib")
-dl.startTyping("channelid")
+dl.startTyping("starttyping")
 dl.login("token", "Typing started!")
 ```
 
@@ -24,14 +24,14 @@ dl.login("token", "Typing started!")
 
 | Parameters | Description | Required |
 | :--- | :--- | :--- |
-| channelid | Channelid | yes |
-| force | Force to stop? | no |
+| command | Command to stop typing | yes |
+| force | Force to stop typing | no |
 
 ### Example
 
 ```text
 const dl = require("discord.lib")
-dl.stopTyping("channelid", true)
+dl.stopTyping("stoptyping", true)
 dl.login("token", "Typing started!")
 ```
 
