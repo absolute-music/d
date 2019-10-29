@@ -1,6 +1,7 @@
 # Table of contents
 
 * [discord.lib Official Documentation](README.md)
+* [discord.lib.client official documentation](discord.lib.client-official-documentation.md)
 
 ## Docs
 
