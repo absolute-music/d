@@ -8,6 +8,10 @@ discord.lib is a library based on discord.js made by Absolute-Development.
 All options has it's specific place. any incorrect placements will crush the bot.
 {% endhint %}
 
+{% hint style="info" %}
+This package will not work on repl.it or glitch.com
+{% endhint %}
+
 ## installation
 
 `npm i discord.lib`

@@ -15,6 +15,7 @@
 * [Attachments](docs/attachments.md)
 * [sharding](docs/sharding.md)
 * [Typings](docs/typings.md)
+* [exampleBot](docs/examplebot.md)
 
 ## Interacting with discord.lib
 
