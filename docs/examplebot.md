@@ -18,7 +18,7 @@ This function let the package download a example bot file with all code with fil
       <td style="text-align:left">
         <p>download destination,</p>
         <p>use &quot;./&quot; for downloads in the</p>
-        <p>current file.</p>
+        <p>current folder</p>
       </td>
       <td style="text-align:left">yes</td>
     </tr>
